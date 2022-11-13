@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DagMT
 - 👀 I’m interested in Developing cross-platform mobile applications
-- 🌱 I’m currently working on Xamarin.Forms, VueJS and Flutter-Dart
+- 🌱 I’m currently working on VueJS and Flutter-Dart
 - 💞️ I’m looking to collaborate on Cross-platform moblie and web development
 - 📫 How to reach me here's my email address dagidam36@gmail.com
 
