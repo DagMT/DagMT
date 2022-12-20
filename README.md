@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your
 # Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagMT&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -34,4 +34,4 @@ You can click the Preview link to take a look at your
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
 
 
-</p>
+</p> -->
