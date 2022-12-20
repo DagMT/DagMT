@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dagMT?cardType=octocat&theme=vue-dark)](https://git.io/awesome-stats-card)
 
 # Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dagMT&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DagMT&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
