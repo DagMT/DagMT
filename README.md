@@ -10,8 +10,5 @@ read me file changed
 DagMT/DagMT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your 
 --->
-# Github Stats
-![Dagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=DagMT&show_icons=true&theme=radical)<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
 
