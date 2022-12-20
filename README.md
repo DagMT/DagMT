@@ -7,6 +7,6 @@
 DagMT/DagMT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your 
 --->
-#Github Stats
+# Github Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/DagMT?cardType=octocat&theme=vue-dark)](https://git.io/awesome-stats-card)
 
