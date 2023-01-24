@@ -17,6 +17,7 @@
 # About Me
 
 - 👋 Hi, I’m Dagi
+- JavaScript Enthusiast 
 - 👀 I’m interested in Developing cross-platform Mobile and Web applications
 - 🌱 I’m currently working on Vue3/Nuxt3, Graphql/Postgresql and Flutter-Dart
 - 💞️ I’m looking to collaborate on Cross-platform moblie and web development
@@ -44,5 +45,4 @@ You can click the Preview link to take a look at your
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" **alt="Graphql" width="40" height="40"/>
-
 </div>
