@@ -16,8 +16,7 @@
 
 # About Me
 
-- 👋 Hi, I’m Dagi
-- JavaScript Enthusiast 
+- 👋 Hi, I’m Dagi, a JavaScript Enthusiast 
 - 👀 I’m interested in Developing cross-platform Mobile and Web applications
 - 🌱 I’m currently working on Vue3/Nuxt3, Graphql/Postgresql and Flutter-Dart
 - 💞️ I’m looking to collaborate on Cross-platform moblie and web development
