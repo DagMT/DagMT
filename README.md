@@ -25,7 +25,7 @@
 DagMT/DagMT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your 
 --->
-# Github Stats
+<!-- # Github Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dagMT?cardType=octocat&theme=vue-dark)](https://git.io/awesome-stats-card)
 
 # Streak Stats
@@ -45,3 +45,4 @@ You can click the Preview link to take a look at your
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="Graphql" **alt="Graphql" width="40" height="40"/>
 </div>
+-->
