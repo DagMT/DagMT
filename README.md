@@ -18,7 +18,7 @@
 
 - 👋 Hi, I’m Dagi, a JavaScript Enthusiast 
 - 👀 I’m interested in Developing cross-platform Mobile and Web applications
-- 🌱 I’m currently working on Vue3/Nuxt3, Graphql/Postgresql and Flutter-Dart
+- 🌱 I’m currently working on Vue3/Nuxt3, Graphql/Postgresql and Go
 - 💞️ I’m looking to collaborate on Cross-platform moblie and web development
 - 📫 How to reach me [Send me an email](mailto:bob@bob.com)
 <!---
